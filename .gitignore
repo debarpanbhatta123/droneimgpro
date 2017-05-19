@@ -1,2 +1,5 @@
 panaroma.py
 .idea
+test.py
+__pycache__
+*.jpg
