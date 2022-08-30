@@ -1,3 +1,5 @@
 # droneimgpro
 This is a repository for drone image processing.
-I am Deparpan Bhattacharya. This is a project which I had been given to do during my internship at IIT Kharagpur. This drone will be taking photos and stitch them.
+This is a project I carried out during my internship at IIT Kharagpur in 2017. 
+
+Paper link: https://dl.acm.org/doi/abs/10.1145/3379930
